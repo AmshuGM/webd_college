@@ -1,0 +1,20 @@
+.top-per {
+    background-color: aquamarine;
+    text-align: center;
+    padding: 7% 15%;
+    font-weight: 400;
+    font-size: 4.5rem;
+    color: red;
+}
+
+#carouselExampleInterval {
+    height: min-content;
+}
+
+.end-der {
+    background-color: red;
+    text-align: center;
+    font-size: 3.5rem;
+    padding: 7% 15%;
+    color: aquamarine;
+}
